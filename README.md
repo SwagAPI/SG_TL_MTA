@@ -1,2 +1,1 @@
-# Give me credits :)
-# SwagAPI#7003
+# Give me credits :) SwagAPI#7003
